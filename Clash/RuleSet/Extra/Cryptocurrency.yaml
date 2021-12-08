@@ -27,6 +27,9 @@ payload:
   - DOMAIN-SUFFIX,kucoin.com
   - DOMAIN-SUFFIX,liquid.com
   - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,okexweb.loongshop.cn
+  - DOMAIN-SUFFIX,okx-dns.cn
+  - DOMAIN-SUFFIX,okexwspri.loongshop.cn
   - DOMAIN-SUFFIX,poloniex.com
   - DOMAIN-SUFFIX,sushi.com
   - DOMAIN-SUFFIX,uniswap.org
